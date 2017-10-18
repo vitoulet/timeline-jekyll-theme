@@ -12,3 +12,5 @@ google-tracking-id:
 career-img: "img/timeline/default.jpg"
 
 exclude: ["Rakefile", "LICENSE", "readme.markdown"]
+
+theme: jekyll-theme-cayman
